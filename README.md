@@ -22,6 +22,10 @@ Verdion Cypress
 Utilizar el comando adjunto para instalar  [Cypress](https://docs.cypress.io/guides/getting-started/installing-cypress) y sus librerias utilizadas dentro del proyecto.
 
 ```bash
+npm install cypress 
+```
+
+```bash
 npm install 
 ```
 
