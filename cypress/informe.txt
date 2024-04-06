@@ -1,0 +1,11 @@
+Hallazgos de la Solución y Recomendación 
+
+1. Titulo validado de manera exitosa
+2. Destinos validados de manera exitosa
+3. Al seleccionar la fechas solo pueden ser mayores a la fecha actual
+4. Filtro de seleccionar boletos funciona de manera correcta
+6. Verificar destinos destinos disponibles funciona de manera correcta
+7. Formulario rellenado exitosamente
+8. Verificar subir Fotografia de manera correcta
+9. Ingresar el codigo promocional funciona de manera correcta
+10. Realizar el pago depende de pruebas anteriores para poder funcionar el boton pago se encuentra bloqueado

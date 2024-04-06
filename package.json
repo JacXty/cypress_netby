@@ -1,0 +1,20 @@
+{
+  "name": "cypress",
+  "version": "1.0.0",
+  "description": "E2E automations",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "cypress:open": "cypress open"
+  },
+  "keywords": [
+    "E2E",
+    "automation"
+  ],
+  "author": "Jason Uyaguari",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^13.7.2",
+    "cypress-file-upload": "^5.0.8"
+  }
+}

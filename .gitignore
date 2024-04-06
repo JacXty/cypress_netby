@@ -1,0 +1,15 @@
+## General
+node_modules/
+
+# Excluir todos los archivos .env
+.env*
+!.env.template
+
+# Archivos específicos de macOS
+.DS_Store
+
+# Carpetas y archivos específicos de IDE
+.idea/*
+
+# Secretos generados
+secrets*.json
